@@ -1,4 +1,4 @@
-# contador-javascript-dio
+# contador-dio
 ## Projeto em JavaScript pela Digital Innovation One
 ### Curso: Introdução ao JavaScript
 ### Bootcamp: Inter Frontend Developer
@@ -7,3 +7,6 @@ O objetivo do projeto é criar um contador simples com dois botões, um para inc
 Um projeto para web simples para aprender a interagir com o DOM (Document Object Model) através do JavaScript, utilizando componentes dinâmicos.
 
 Algumas alterações foram feitas como a adição do método "addEventListener()" para implementar as funções de incrementar e decrementar, implementação de facilidades de uso como animação ao tentar ultrapassar os limites do contador, modificação de estilo do contador dependendo da situação e a criação de um componente dinâmico que não existia no projeto original.
+
+
+#### Projeto original: https://github.com/stebsnusch/basecamp-javascript/tree/main/introducao-ao-javascript/contador
